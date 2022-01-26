@@ -924,7 +924,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3241429135896182021}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.00018694969, y: 0.010419095, z: -1.5986419}
+  m_LocalPosition: {x: 0.8198242, y: 0.01041913, z: -1.5986481}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 3241429137226348384}
@@ -1543,7 +1543,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3241429136062482335}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 2.399815, y: 0.014408624, z: -1.5972967}
+  m_LocalPosition: {x: 3.219818, y: 0.014408588, z: -1.59729}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 3241429137137221433}
@@ -2227,7 +2227,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3241429136249399995}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 12.830002}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -2881,7 +2881,7 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     randomizeRotationDirection: 0
-    maxNumParticles: 1000
+    maxNumParticles: 10
     size3D: 0
     rotation3D: 0
     gravityModifier:
@@ -7391,7 +7391,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3241429136575619321}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.2001884, y: 0.013564513, z: -1.5990908}
+  m_LocalPosition: {x: -2.380188, y: 0.013564587, z: -1.5990906}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 3241429137567623441}
@@ -8653,7 +8653,7 @@ MonoBehaviour:
   totalBounds:
     m_Center: {x: -0.40000004, y: 0.569, z: 0}
     m_Extent: {x: 0.8, y: 0.569, z: 0.4}
-  colliding: 0
+  colliding: 1
 --- !u!114 &3241429137035629097
 MonoBehaviour:
   m_ObjectHideFlags: 10
@@ -9222,7 +9222,7 @@ MonoBehaviour:
   totalBounds:
     m_Center: {x: -0.40000004, y: 0.569, z: 0}
     m_Extent: {x: 0.8, y: 0.569, z: 0.4}
-  colliding: 0
+  colliding: 1
 --- !u!114 &3241429137137221415
 MonoBehaviour:
   m_ObjectHideFlags: 10
